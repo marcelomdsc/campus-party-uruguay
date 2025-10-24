@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: Campus Party Uruguay demo page\n\n- Add responsive HTML structure with navigation, hero section, and content sections\n- Add modern CSS with gradients, animations, and mobile-first design\n- Add interactive JavaScript with scroll effects, form validation, and animations\n- Include sections: About, Activities, Speakers, and Registration form\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
